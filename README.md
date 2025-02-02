@@ -1,1 +1,1 @@
-https://github.com/Deleon-Santos/clone-spootfy.git/index.html
+https://deleon-santos.github.io/clone-spootfy/
