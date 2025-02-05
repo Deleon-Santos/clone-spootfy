@@ -1,6 +1,6 @@
-const searchInput = document.getElementById('search-input');
+const searchInput = document.getElementById('cabeca__input');
 const resultArtist = document.getElementById("result-artist");
-const resultPlaylist = document.getElementById('result-playlists');
+const resultPlaylist = document.getElementById('resultado-playlist');
 
 function requestApi(searchTerm) {
     const url = `http://localhost:3000/artists?name_like=${searchTerm}`
