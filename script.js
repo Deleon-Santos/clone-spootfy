@@ -22,7 +22,7 @@ function displayResults(result) {
     resultArtist.classList.remove('hidden');
 }
 
-document.addEventListener('input', function () {
+document.addEventListener('cabeca__input', function () {
     const searchTerm = searchInput.value.toLowerCase();
     if (searchTerm === '') {
         resultPlaylist.classList.add('hidden');
